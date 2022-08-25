@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Example project for: [Another way to theme your React app.](https://medium.com/@stefanutmares/another-way-to-theme-your-react-app-f7c836f74355)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
